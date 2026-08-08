@@ -1,91 +1,118 @@
-# `prayag@github:~$`
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=900\&color=00FF00\&center=true\&vCenter=true\&width=650\&lines=Cybersecurity+Enthusiast;Networking+Enthusiast;Linux+Explorer;Systems+Programming;B.Sc.+CSIT+Student)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=Whitedonrocks&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" align="left"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Whitedonrocks&label=PROFILE%20VIEWS&color=00ff00&style=flat-square" />
-</p>
+👋 Hi, I'm Prayag Nepal
 
-```console
-┌──[prayag@github]─[~]
-└─$ cat about_me.conf
 
-NAME="Prayag Nepal"
-ROLE="B.Sc. CSIT Student"
-SEMESTER="5th"
-FOCUS=("Cybersecurity" "Networking" "Linux" "Systems")
-STATUS="Always Learning"
-```
 
-```console
-┌──[prayag@github]─[~]
-└─$ ./skills.sh
+Cybersecurity • Networking • Linux • Systems Programming
 
-[+] Cybersecurity
-    ├── Threat Analysis
-    ├── Network Intrusion
-    └── DoS / Security Fundamentals
+</div>
 
-[+] Networking
-    ├── Cisco / Packet Tracer
-    ├── TCP/IP & Ethernet
-    ├── VLANs & Subnetting
-    └── Routing & Switching
+🧑‍💻 About Me
 
-[+] Systems
-    ├── Linux / Ubuntu
-    ├── Operating Systems
-    ├── Multithreading
-    └── Synchronization
-```
+const prayag = {
+    location: "Nepal 🇳🇵",
+    education: "B.Sc. CSIT",
+    semester: 5,
 
-```console
-┌──[prayag@github]─[~/toolbox]
-└─$ ls
+    focus: [
+        "Cybersecurity",
+        "Networking",
+        "Linux",
+        "Systems Programming"
+    ],
 
-C/          C++/        Python/
-JavaScript/ HTML/       CSS/
-Linux/      Cisco/      Git/
-VS-Code/    PacketTracer/
-```
+    currentlyLearning: [
+        "CCNA",
+        "Network Security",
+        "Linux & System Administration",
+        "Operating Systems"
+    ],
 
-```console
-┌──[prayag@github]─[~/projects]
-└─$ git log --oneline --all
+    interests: [
+        "Cyber Threat Analysis",
+        "Network Security",
+        "Cisco Networking",
+        "System Programming"
+    ],
+
+    mindset: "Understand how it works. Break it. Build it better."
+};
+
+🛠️ Tech Stack
+
+Languages
+├── C
+├── C++
+├── Python
+├── JavaScript
+├── HTML
+└── CSS
+
+Networking
+├── Cisco IOS
+├── Cisco Packet Tracer
+├── TCP/IP
+├── Ethernet
+├── VLANs
+├── STP
+└── Subnetting
+
+Systems & Tools
+├── Linux / Ubuntu
+├── Git & GitHub
+├── VS Code
+└── Operating Systems
+
+🔐 What I Work On
+
+class Prayag {
+
+public:
+
+    void interests() {
+        cybersecurity();
+        networking();
+        linux();
+        systems_programming();
+    }
+
+    void build() {
+        analyze_threats();
+        configure_networks();
+        write_code();
+        experiment();
+        learn();
+    }
+};
+
+🚀 Featured Projects
 
 🔐 Multi-Threaded Bank Account Simulation
-   └─ C • Threads • Mutex • Synchronization
+   C • Threads • Mutex • Synchronization
 
 🌐 Network Protocol & Security Research
-   └─ Ethernet • ATM • Frame Relay • Threat Analysis
+   Ethernet • ATM • Frame Relay • Threat Analysis
 
 ⚙️ Community Operations
-   └─ Investigations • Documentation • Administration
-```
+   Investigations • Documentation • Administration
 
-```console
-┌──[prayag@github]─[~]
-└─$ cat currently_learning
+📚 Currently Learning
 
-[████████████████░░░░] Cybersecurity
-[███████████████░░░░░] Networking / CCNA
-[██████████████░░░░░░] Linux & System Administration
-[█████████████░░░░░░░] Operating Systems
-```
+$ cat learning.txt
 
-### `prayag@github:~$ git status`
+[+] Cybersecurity
+[+] Network Security
+[+] CCNA / Cisco Networking
+[+] Linux & System Administration
+[+] Operating Systems
+[+] C/C++ System Programming
 
-```diff
-+ Exploring Cybersecurity
-+ Building Networking knowledge
-+ Learning Linux & Systems
-+ Writing C/C++ projects
-+ Breaking things to understand how they work
-```
+📊 GitHub
 
----
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Whitedonrocks&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 
@@ -95,11 +122,10 @@ VS-Code/    PacketTracer/
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedonrocks&layout=compact&theme=react&border_radius=10" />
 
-</p>
+</div>
 
-```console
-┌──[prayag@github]─[~]
-└─$ echo "Keep learning. Keep building. Keep securing."
+<div align="center">
 
-Keep learning. Keep building. Keep securing.
-```
+$ echo "Keep learning. Keep building. Keep securing."
+
+</div>
