@@ -15,7 +15,7 @@ Cybersecurity • Networking • Linux • Systems Programming
 const prayag = {
     location: "Nepal 🇳🇵",
     education: "B.Sc. CSIT",
-    semester: 5,
+    semester: 6,
 
     focus: [
         "Cybersecurity",
