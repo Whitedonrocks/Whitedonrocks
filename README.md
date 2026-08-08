@@ -75,20 +75,6 @@ Systems & Tools
 
 ---
 
-## 🚀 Featured Projects
-
-```text
-🔐 Multi-Threaded Bank Account Simulation
-   C • Threads • Mutex • Synchronization
-
-🌐 Network Protocol & Security Research
-   IEEE 802.3 • 802.4 • 802.5 • ATM • Frame Relay
-
-⚙️ Community Operations
-   Investigations • Documentation • Policy • Administration
-```
-
----
 
 ## 📚 Currently Learning
 
@@ -103,23 +89,6 @@ $ cat learning.txt
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Whitedonrocks&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies">
-</a>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Whitedonrocks&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedonrocks&layout=compact&theme=react&border_radius=10" alt="Top Languages">
-
-</div>
-
----
 
 <div align="center">
 
