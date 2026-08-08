@@ -1,72 +1,241 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Whitedonrocks&color=blue&style=flat" alt="Profile views" />
-</div>
+# `> whoami`
+
+```bash
+┌──(prayag㉿github)-[~/profile]
+└─$ whoami
+
+Prayag Nepal
+Cyber Security & Networking Enthusiast
+B.Sc. CSIT — 5th Semester
+```
+
+> **Cyber Security • Networking • Systems • Linux • C/C++ • Cisco**
+
+I'm a **B.Sc. CSIT student** focused on understanding how systems communicate, fail, and can be secured.
+
+My current interests revolve around **Cyber Security, Network Engineering, Operating Systems, and Linux**, with a practical approach to learning through labs, simulations, research, and projects.
+
+---
+
+## `> cat skills.txt`
+
+```text
+[ CYBER SECURITY ]
+├── Threat Analysis
+├── DoS / DDoS Concepts
+├── Malware & Worm Analysis
+├── Network Intrusion Detection
+├── Security Fundamentals
+└── Incident & Risk Analysis
+
+[ NETWORKING ]
+├── Cisco IOS / Packet Tracer
+├── Ethernet & IEEE 802.3
+├── VLAN / STP
+├── TCP/IP
+├── IPv4 / Subnetting
+├── Routing & Switching
+├── Virtual Circuit Switching
+├── ATM
+└── Frame Relay
+
+[ SYSTEMS ]
+├── Linux / Ubuntu
+├── Operating Systems
+├── Process & Thread Management
+├── Synchronization
+├── Mutex / Race Conditions
+└── C-based System Simulations
+
+[ PROGRAMMING ]
+├── C
+├── C++
+├── Python
+├── JavaScript
+├── HTML
+└── CSS
+```
+
+---
+
+## `> ls ~/projects`
+
+### 🔐 Multi-Threaded Bank Account Simulation
+
+```text
+Language    : C
+Focus       : Operating Systems / Concurrency
+Concepts    : Threads • Mutex • Synchronization
+```
+
+A concurrent bank account simulation designed to demonstrate how multiple threads interact with shared resources.
+
+Implemented **mutex-based synchronization** to prevent race conditions and maintain data consistency.
+
+---
+
+### 🌐 Network Protocol & Security Research
+
+```text
+Focus       : Networking + Cyber Security
+Technologies: IEEE 802.3 • 802.4 • 802.5
+Protocols   : ATM • Frame Relay
+```
+
+Academic research and technical documentation covering enterprise networking technologies, communication standards, network architectures, and modern cybersecurity threats.
+
+---
+
+### ⚙️ Community Operations & Administration
+
+```text
+Domain      : Community Operations
+Focus       : Management • Investigations • Documentation
+```
+
+Experience managing internal operations for large digital communities, including:
+
+* Internal investigations
+* Incident documentation
+* Dispute resolution
+* Policy enforcement
+* Formal reports
+* Administrative coordination
+
+---
+
+## `> cat currently_learning.txt`
+
+```python
+learning = {
+    "security": [
+        "Network Security",
+        "Threat Analysis",
+        "Incident Response",
+        "Security Operations"
+    ],
+
+    "networking": [
+        "CCNA",
+        "Cisco IOS",
+        "Switching",
+        "Routing",
+        "STP",
+        "VLANs"
+    ],
+
+    "systems": [
+        "Operating Systems",
+        "Linux",
+        "Concurrency",
+        "System Programming"
+    ]
+}
+```
+
+---
+
+## `> cat toolbox.json`
+
+```json
+{
+  "languages": [
+    "C",
+    "C++",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "networking": [
+    "Cisco IOS",
+    "Cisco Packet Tracer",
+    "TCP/IP",
+    "Ethernet"
+  ],
+  "systems": [
+    "Linux",
+    "Ubuntu",
+    "Git",
+    "GitHub",
+    "VS Code"
+  ],
+  "creative": [
+    "Canva",
+    "Adobe Photoshop",
+    "Adobe Premiere"
+  ]
+}
+```
+
+---
+
+## `> git status`
+
+```diff
++ Building practical Cyber Security knowledge
++ Studying Cisco Networking & CCNA
++ Exploring Linux & System Administration
++ Improving C/C++ System Programming
++ Working on networking & security labs
++ Documenting what I learn
+```
+
+---
+
+## `> ./connect.sh`
+
+<p align="center">
+
+<a href="https://github.com/Whitedonrocks">
+<img src="https://img.shields.io/badge/GitHub-Whitedonrocks-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## `> github --stats`
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Prayag;Cyber+Security+%26+Networking;Cisco+Student+%7C+IT+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</div>
 
-### 👨‍💻 About Me
+<img src="https://github-profile-trophy.vercel.app/?username=Whitedonrocks&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 
-<div align="center">
+<br><br>
 
-I am a fifth-semester Bachelor's student with a strong foundation in IT, actively specializing in **Cyber Security and Networking**. 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Whitedonrocks&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 
-My technical focus revolves around analyzing cyber threats (DoS attacks, worms, network intruders) and understanding the backbone of digital communication through Cisco networking concepts, Ethernet standards, and Virtual Circuit Switching. I am highly practical in my approach—whether I am writing C code to simulate multi-threaded OS environments or tweaking my Ubuntu system for optimal performance.
-
-Beyond the command line, I have a proven track record in community leadership, managing internal affairs, investigations, and formal reporting for large digital communities. 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedonrocks&layout=compact&theme=react&border_radius=10" />
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <a href="mailto:prayagnepal2060@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/prayagnepal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Whitedonrocks">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+## `> ./quote.sh`
 
-<br/>
+```bash
+$ echo "The best way to understand a system
+        is to break it, analyze it,
+        and build it again."
 
-### 🛠️ Core Technologies & Tools
+> keep learning.
+> keep experimenting.
+> keep securing.
+```
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,ubuntu,bash,git,github,kali&theme=dark" alt="Skills" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Cisco_Networking-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cyber_Security-1c1c1c?style=for-the-badge&logo=security&logoColor=white" alt="Cyber Security" />
-  <img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
-</div>
+---
 
-<br/>
+<p align="center">
 
-### 🚀 Featured Projects & Experience
+### `~/profile $ exit`
 
-* **Multi-Threaded Bank Account Simulation (C):** Designed and implemented a concurrent bank account simulation using C. Utilized mutexes to handle synchronization and prevent race conditions, demonstrating a practical understanding of core Operating System algorithms.
-* **Network Protocol Analysis & Security:** Conducted in-depth academic research and technical documentation on enterprise networking protocols (802.3, 802.4, 802.5, ATM, Frame Relay) and modern cybersecurity threat vectors.
-* **Community Operations Management:** Led internal affairs and drafted formal investigative reports, dispute resolutions, and promulgation statements for a large-scale gaming community. Demonstrated strong soft skills in management, policy enforcement, and communication.
+```text
+Connection closed.
+But the learning continues...
+```
 
-<br/>
-
-### 📊 Professional Metrics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Whitedonrocks&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whitedonrocks&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedonrocks&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="400" />
-</div>
+</p>
