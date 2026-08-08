@@ -42,7 +42,6 @@ const prayag = {
 };
 ```
 
-I'm a practical learner interested in understanding how systems **communicate, operate, and fail** — from network threats and Cisco protocols to multithreaded C programs and Linux systems.
 
 ---
 
